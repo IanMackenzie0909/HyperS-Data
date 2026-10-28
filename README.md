@@ -1,1 +1,1 @@
-# HyperS-Dataset
+# HyperS-Data
